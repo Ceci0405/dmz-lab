@@ -66,10 +66,8 @@ ACLs: Se creó una lista de control de acceso para proteger la LAN.
 ### 6. Conclusiones y recomendaciones
 
 > ¿Qué aprendiste con este ejercicio? ¿Qué mejorarías?
-Aprendí que la DMZ es una capa de seguridad crítica. Aunque un servidor sea público, nunca debe tener permiso para iniciar conexiones hacia la red privada. Recomiendo siempre verificar los Gateway de los dispositivos antes de configurar las ACL para evitar falsos errores.
 
-**Ejemplo:**
-Aprendí a aplicar NAT y ACLs en un entorno simulado. Recomiendo verificar conectividad básica antes de aplicar reglas de firewall, ya que un error en la IP puede bloquear todo.
+Aprendí que la DMZ es una capa de seguridad crítica. Aunque un servidor sea público, nunca debe tener permiso para iniciar conexiones hacia la red privada. Recomiendo siempre verificar los Gateway de los dispositivos antes de configurar las ACL para evitar falsos errores.
 
 
 ### 7. Capturas de evidencia
